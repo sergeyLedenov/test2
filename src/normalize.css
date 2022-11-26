@@ -1,0 +1,65 @@
+h5 {
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 30px;
+    color: #626262;
+    margin-top: 32px;
+    margin-bottom: 40px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 130px;
+}
+
+li {
+    text-transform: uppercase;
+    display: inline;
+    padding: 0 50px;
+}
+
+li > a:hover {
+    color: #03A9F4;
+}
+
+ul {
+    margin: 71px 0 92px 0;
+    text-align: center;
+}
+
+.container {
+    width: 908px;
+    margin: 0px auto 66px auto;
+}
+
+article {
+    display: inline-block;
+    width: 49%;
+}
+
+.article_img {
+    margin-bottom: 62px;
+}
+
+.tag {
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    color: #B4AD9E;
+    font-weight: 300;
+}
+
+.text-center {
+    text-align: center;
+}
+
+button {
+    padding-top: 20px;
+    padding-right: 48px;
+    padding-bottom: 21px;
+    padding-left: 49px;
+
+    font-family: 'Playfair Display', serif;
+    border: 1px solid #626262;
+    background-color: transparent;
+    color: #626262;
+}
